@@ -1,0 +1,23 @@
+# Declaring and initializing personal details
+name = "Jorge Zander S. Artiaga"
+age = 20  # Numeric literal
+address = "Nauring, Pandan, Antique"
+section = "BSCS-2A"
+fav_sport = "Volleyball"
+fav_color = "Blue"
+fav_number = "07"
+fav_food = "Fried chicken"
+dream_destination = "Thailand"
+motto = "Be sensitive like a dove and Be brave like a lion"
+
+# Printing the details
+print("Name:", name)
+print("Age:", age)
+print("Address:", address)
+print("Section:", section)
+print("Favorite sport:", fav_sport)
+print("Favorite color:", fav_color)
+print("Favorite number:", fav_number)
+print("Favorite food:", fav_food)
+print("Dream destination:", dream_destination)
+print("Motto:", motto)
